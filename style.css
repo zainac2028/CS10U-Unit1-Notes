@@ -8,8 +8,23 @@ p {
 }
 /* select by ID name (unique) */
 #zaina {
-    background: hotpink
+    background: hotpink;
+    border-width: 7px;
+    border-style: dotted;
+    border-color: rgb(197, 0, 197);
+    border-radius: 100px;
+    padding: 20px;
+    margin: 25px
 }
 .uniform {
     color: purple
+}
+/* everything is a BOX 
+* {
+    border: 2px solid blue;
+}
+*/
+
+hr {
+    border: solid 2px rgb(197, 0, 197);
 }
