@@ -6,6 +6,17 @@ body {
 p {
     color: white
 }
+/* Text formatting properties */
+h1 {
+    color: orchid;
+    font-weight: 100;
+    font-style: italic;
+    font-size: 50xpx;
+    font-family: Impact;
+    text-align: center;
+
+}
+
 /* select by ID name (unique) */
 #zaina {
     background: hotpink;
